@@ -1,0 +1,2 @@
+# mode
+mode automator
